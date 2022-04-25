@@ -33,7 +33,26 @@ We also intend to power the web app using Machine Learning which would help peop
 
 <h2 align="center">SCREENSHOTS</h2>
 
-<h4>To be added soon...</h4>
+<table>
+  <tr>
+    <td align="center"><img src="https://github.com/BTP-Sem-5-Project/.github/blob/main/profile/photos/signIn.png?raw=true" width="250px;" alt=""</td>
+    <td align="center"><img src="https://github.com/BTP-Sem-5-Project/.github/blob/main/profile/photos/home.png?raw=true" width="250px;" alt=""/></td>
+    <td align="center"><img src="https://github.com/BTP-Sem-5-Project/.github/blob/main/profile/photos/Screenshot%202022-04-25%20140628.png?raw=true" width="250px;" alt=""/></td>
+    <td align="center"><img src="https://github.com/BTP-Sem-5-Project/.github/blob/main/profile/photos/Screenshot%202022-04-25%20140618.png?raw=true" width="250px;" alt=""</td>
+    <td align="center"><img src="https://github.com/BTP-Sem-5-Project/.github/blob/main/profile/photos/Screenshot%202022-04-25%20140604.png?raw=true" width="250px;" alt=""/></td>
+  </tr>
+   <tr>
+    <td align="center"><img src="https://github.com/BTP-Sem-5-Project/.github/blob/main/profile/photos/Screenshot%202022-04-25%20140552.png?raw=true" width="250px;" alt=""</td>
+    <td align="center"><img src="https://github.com/BTP-Sem-5-Project/.github/blob/main/profile/photos/Screenshot%202022-04-25%20140540.png?raw=true" width="250px;" alt=""/></td>
+    <td align="center"><img src="https://github.com/BTP-Sem-5-Project/.github/blob/main/profile/photos/Screenshot%202022-04-25%20140526.png?raw=true" width="250px;" alt=""/></td>
+    <td align="center"><img src="https://github.com/BTP-Sem-5-Project/.github/blob/main/profile/photos/Screenshot%202022-04-25%20140515.png?raw=true" width="250px;" alt=""</td>
+    <td align="center"><img src="https://github.com/BTP-Sem-5-Project/.github/blob/main/profile/photos/Screenshot%202022-04-25%20140506.png?raw=true" width="250px;" alt=""/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://github.com/BTP-Sem-5-Project/.github/blob/main/profile/photos/Screenshot%202022-04-25%20140453.png?raw=true" width="250px;" alt=""</td>
+    
+  </tr>
+</table>
 
 <h2 align="center">CONTRIBUTORS</h2>
 
