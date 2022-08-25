@@ -14,7 +14,7 @@
 The app provides various features like assign tasks, publish notice, live update on github commits to see realtime progress on project. It has Machine Learning based model for skills, all within an organized workflow. It also shows graphical representation of contribution on each person.
 This will not only provide employees the ease of having all company related work in an app but also provides HRs features like finding perfect candidate for the job.
   <br/>
-We also intend to power the web app using Machine Learning which would help people find similar travel buddies based on their personal and social preferences which is taken through a detailed personality quiz.
+
 </h4>
 <br/>
 <h2 align="center">TECH STACK USED</h2>
